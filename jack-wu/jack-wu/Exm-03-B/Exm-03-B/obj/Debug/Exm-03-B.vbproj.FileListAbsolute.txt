@@ -1,0 +1,33 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\bin\Debug\Exm-03-B.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\bin\Debug\Exm-03-B.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\bin\Debug\Exm-03-B.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\Exm_03_B.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\Exm_03_B.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\Exm-03-B.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\Exm-03-B.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\Exm-03-B.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-03-B\obj\Debug\Exm-03-B.pdb
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.exe
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.xml
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.pdb
+D:\vnu\Exm-03-B\Exm-03-B\bin\Debug\Exm-03-B.exe
+D:\vnu\Exm-03-B\Exm-03-B\bin\Debug\Exm-03-B.pdb
+D:\vnu\Exm-03-B\Exm-03-B\bin\Debug\Exm-03-B.xml
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\Exm_03_B.Form1.resources
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\Exm_03_B.Resources.resources
+D:\vnu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.vbproj.GenerateResource.Cache
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.exe
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.xml
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.pdb
+D:\VB範例書\project\Exm-03-B\Exm-03-B\bin\Debug\Exm-03-B.exe
+D:\VB範例書\project\Exm-03-B\Exm-03-B\bin\Debug\Exm-03-B.pdb
+D:\VB範例書\project\Exm-03-B\Exm-03-B\bin\Debug\Exm-03-B.xml
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\Exm_03_B.Form1.resources
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\Exm_03_B.Resources.resources
+D:\VB範例書\project\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.vbproj.GenerateResource.Cache
+D:\VB範例書\jack-wu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.exe
+D:\VB範例書\jack-wu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.xml
+D:\VB範例書\jack-wu\Exm-03-B\Exm-03-B\obj\Debug\Exm-03-B.pdb

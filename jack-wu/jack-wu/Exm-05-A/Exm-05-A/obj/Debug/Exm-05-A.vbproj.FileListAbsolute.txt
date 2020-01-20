@@ -1,0 +1,50 @@
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\bin\Debug\Exm-05-A.exe
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\bin\Debug\Exm-05-A.pdb
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\bin\Debug\Exm-05-A.xml
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\Exm_05_A.Form1.resources
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\Exm_05_A.Resources.resources
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\Exm-05-A.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\Exm-05-A.exe
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\Exm-05-A.xml
+C:\Documents and Settings\Administrator.MYCHAT-B44324F2\Local Settings\Application Data\Temporary Projects\Exm-05-A\obj\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.exe
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.xml
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-A\Exm-05-A\bin\Debug\Exm-05-A.exe
+D:\vnu\Exm-05-A\Exm-05-A\bin\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-A\Exm-05-A\bin\Debug\Exm-05-A.xml
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\Exm_05_A.Form1.resources
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\Exm_05_A.Resources.resources
+D:\vnu\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.vbproj.GenerateResource.Cache
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\Exm-05-A.exe
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\Exm-05-A.xml
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-C\Exm-05-A\bin\Debug\Exm-05-A.exe
+D:\vnu\Exm-05-C\Exm-05-A\bin\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-C\Exm-05-A\bin\Debug\Exm-05-A.xml
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\Exm_05_A.Form1.resources
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\Exm_05_A.Resources.resources
+D:\vnu\Exm-05-C\Exm-05-A\obj\Debug\Exm-05-A.vbproj.GenerateResource.Cache
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\Exm-05-A.exe
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\Exm-05-A.xml
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-B\Exm-05-A\bin\Debug\Exm-05-A.exe
+D:\vnu\Exm-05-B\Exm-05-A\bin\Debug\Exm-05-A.pdb
+D:\vnu\Exm-05-B\Exm-05-A\bin\Debug\Exm-05-A.xml
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\Exm_05_A.Form1.resources
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\Exm_05_A.Resources.resources
+D:\vnu\Exm-05-B\Exm-05-A\obj\Debug\Exm-05-A.vbproj.GenerateResource.Cache
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.exe
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.xml
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.pdb
+D:\VB範例書\project\Exm-05-A\Exm-05-A\bin\Debug\Exm-05-A.exe
+D:\VB範例書\project\Exm-05-A\Exm-05-A\bin\Debug\Exm-05-A.pdb
+D:\VB範例書\project\Exm-05-A\Exm-05-A\bin\Debug\Exm-05-A.xml
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\Exm_05_A.Form1.resources
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\Exm_05_A.Resources.resources
+D:\VB範例書\project\Exm-05-A\Exm-05-A\obj\Debug\Exm-05-A.vbproj.GenerateResource.Cache

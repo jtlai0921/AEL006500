@@ -1,0 +1,20 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\bin\Debug\Exm-04-C.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\bin\Debug\Exm-04-C.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\bin\Debug\Exm-04-C.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\Exm_04_C.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\Exm_04_C.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\Exm-04-C.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\Exm-04-C.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\Exm-04-C.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-C\obj\Debug\Exm-04-C.pdb
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\Exm-04-C.exe
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\Exm-04-C.xml
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\Exm-04-C.pdb
+D:\VB範例書\project\Exm-04-C\Exm-04-C\bin\Debug\Exm-04-C.exe
+D:\VB範例書\project\Exm-04-C\Exm-04-C\bin\Debug\Exm-04-C.pdb
+D:\VB範例書\project\Exm-04-C\Exm-04-C\bin\Debug\Exm-04-C.xml
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\Exm_04_C.Form1.resources
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\Exm_04_C.Resources.resources
+D:\VB範例書\project\Exm-04-C\Exm-04-C\obj\Debug\Exm-04-C.vbproj.GenerateResource.Cache

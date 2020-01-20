@@ -1,0 +1,18 @@
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\bin\Debug\eng-test.exe
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\bin\Debug\eng-test.pdb
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\bin\Debug\eng-test.xml
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\obj\Debug\eng_test.Resources.resources
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\obj\Debug\eng-test.vbproj.GenerateResource.Cache
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\obj\Debug\eng-test.exe
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\obj\Debug\eng-test.xml
+C:\Users\wk\AppData\Local\Temporary Projects\eng-test\obj\Debug\eng-test.pdb
+D:\VB範例書\user\eng-test\obj\Debug\eng-test.exe
+D:\VB範例書\user\eng-test\obj\Debug\eng-test.xml
+D:\VB範例書\user\eng-test\obj\Debug\eng-test.pdb
+D:\VB範例書\user\eng-test\bin\Debug\eng-test.exe
+D:\VB範例書\user\eng-test\bin\Debug\eng-test.pdb
+D:\VB範例書\user\eng-test\bin\Debug\eng-test.xml
+D:\VB範例書\user\eng-test\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\user\eng-test\obj\Debug\eng_test.Resources.resources
+D:\VB範例書\user\eng-test\obj\Debug\eng-test.vbproj.GenerateResource.Cache

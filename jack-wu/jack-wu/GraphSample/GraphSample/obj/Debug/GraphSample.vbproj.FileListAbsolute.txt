@@ -1,0 +1,23 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\bin\Debug\GraphSample.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\bin\Debug\GraphSample.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\bin\Debug\GraphSample.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\GraphSample.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\GraphSample.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\GraphSample.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\GraphSample.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\GraphSample.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\GraphSample\obj\Debug\GraphSample.pdb
+D:\vnu\Prog\GraphSample\GraphSample\obj\Debug\GraphSample.exe
+D:\vnu\Prog\GraphSample\GraphSample\obj\Debug\GraphSample.xml
+D:\vnu\Prog\GraphSample\GraphSample\obj\Debug\GraphSample.pdb
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\GraphSample.xml
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\GraphSample.pdb
+D:\VB範例書\jack-wu\GraphSample\GraphSample\bin\Debug\GraphSample.exe
+D:\VB範例書\jack-wu\GraphSample\GraphSample\bin\Debug\GraphSample.pdb
+D:\VB範例書\jack-wu\GraphSample\GraphSample\bin\Debug\GraphSample.xml
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\GraphSample.Form1.resources
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\GraphSample.Resources.resources
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\GraphSample.vbproj.GenerateResource.Cache
+D:\VB範例書\jack-wu\GraphSample\GraphSample\obj\Debug\GraphSample.exe

@@ -1,0 +1,23 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\bin\Debug\exm-02-G.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\bin\Debug\exm-02-G.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\bin\Debug\exm-02-G.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\exm_02_G.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\exm_02_G.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\exm-02-G.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\exm-02-G.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\exm-02-G.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\exm-02-G\obj\Debug\exm-02-G.pdb
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\exm-02-G.exe
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\exm-02-G.xml
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\exm-02-G.pdb
+D:\vnu\exm-02-G\exm-02-G\bin\Debug\exm-02-G.exe
+D:\vnu\exm-02-G\exm-02-G\bin\Debug\exm-02-G.pdb
+D:\vnu\exm-02-G\exm-02-G\bin\Debug\exm-02-G.xml
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\exm_02_G.Form1.resources
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\exm_02_G.Resources.resources
+D:\vnu\exm-02-G\exm-02-G\obj\Debug\exm-02-G.vbproj.GenerateResource.Cache
+D:\VB範例書\project\exm-02-G\exm-02-G\obj\Debug\exm-02-G.exe
+D:\VB範例書\project\exm-02-G\exm-02-G\obj\Debug\exm-02-G.xml
+D:\VB範例書\project\exm-02-G\exm-02-G\obj\Debug\exm-02-G.pdb

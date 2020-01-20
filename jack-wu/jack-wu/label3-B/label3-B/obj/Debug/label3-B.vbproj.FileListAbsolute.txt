@@ -1,0 +1,30 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\bin\Debug\label3-B.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\bin\Debug\label3-B.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\bin\Debug\label3-B.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\label3_B.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\label3_B.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\label3-B.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\label3-B.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\label3-B.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\label3-B\obj\Debug\label3-B.pdb
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\label3-B.exe
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\label3-B.xml
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\label3-B.pdb
+D:\vnu\Prog\label3-B\label3-B\bin\Debug\label3-B.exe
+D:\vnu\Prog\label3-B\label3-B\bin\Debug\label3-B.pdb
+D:\vnu\Prog\label3-B\label3-B\bin\Debug\label3-B.xml
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\label3_B.Form1.resources
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\label3_B.Resources.resources
+D:\vnu\Prog\label3-B\label3-B\obj\Debug\label3-B.vbproj.GenerateResource.Cache
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\label3-B.xml
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\label3-B.pdb
+D:\VB範例書\jack-wu\label3-B\label3-B\bin\Debug\label3-B.exe
+D:\VB範例書\jack-wu\label3-B\label3-B\bin\Debug\label3-B.pdb
+D:\VB範例書\jack-wu\label3-B\label3-B\bin\Debug\label3-B.xml
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\label3_B.Form1.resources
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\label3_B.Resources.resources
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\label3-B.vbproj.GenerateResource.Cache
+D:\VB範例書\jack-wu\label3-B\label3-B\obj\Debug\label3-B.exe

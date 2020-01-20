@@ -1,0 +1,16 @@
+C:\Users\wk\AppData\Local\Temporary Projects\cal\bin\Debug\cal.exe
+C:\Users\wk\AppData\Local\Temporary Projects\cal\bin\Debug\cal.pdb
+C:\Users\wk\AppData\Local\Temporary Projects\cal\bin\Debug\cal.xml
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\cal.Form1.resources
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\cal.Resources.resources
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\cal.vbproj.GenerateResource.Cache
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\cal.exe
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\cal.xml
+C:\Users\wk\AppData\Local\Temporary Projects\cal\obj\Debug\cal.pdb
+D:\VB範例書\user\cal\obj\Debug\cal.exe
+D:\VB範例書\user\cal\obj\Debug\cal.xml
+D:\VB範例書\user\cal\obj\Debug\cal.pdb
+D:\VB範例書\user\cal-01\obj\Debug\cal.exe
+D:\VB範例書\user\cal-01\obj\Debug\cal.xml
+D:\VB範例書\user\cal-01\obj\Debug\cal.pdb

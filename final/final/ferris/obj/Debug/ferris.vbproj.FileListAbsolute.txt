@@ -1,0 +1,20 @@
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\bin\Debug\ferris.exe
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\bin\Debug\ferris.pdb
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\bin\Debug\ferris.xml
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ferris.Form1.resources
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ferris.Resources.resources
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ferris.vbproj.GenerateResource.Cache
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ferris.exe
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ferris.xml
+C:\Users\wk\AppData\Local\Temporary Projects\ferris\obj\Debug\ferris.pdb
+D:\VB範例書\user\ferris\obj\Debug\ferris.exe
+D:\VB範例書\user\ferris\obj\Debug\ferris.xml
+D:\VB範例書\user\ferris\obj\Debug\ferris.pdb
+D:\VB範例書\user\ferris\bin\Debug\ferris.exe
+D:\VB範例書\user\ferris\bin\Debug\ferris.pdb
+D:\VB範例書\user\ferris\bin\Debug\ferris.xml
+D:\VB範例書\user\ferris\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\user\ferris\obj\Debug\ferris.Form1.resources
+D:\VB範例書\user\ferris\obj\Debug\ferris.Resources.resources
+D:\VB範例書\user\ferris\obj\Debug\ferris.vbproj.GenerateResource.Cache

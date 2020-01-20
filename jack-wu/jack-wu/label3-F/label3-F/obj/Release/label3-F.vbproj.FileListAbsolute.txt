@@ -1,0 +1,10 @@
+D:\vnu\Prog\label3-F\label3-F\bin\Release\label3-F.exe
+D:\vnu\Prog\label3-F\label3-F\bin\Release\label3-F.pdb
+D:\vnu\Prog\label3-F\label3-F\bin\Release\label3-F.xml
+D:\vnu\Prog\label3-F\label3-F\obj\Release\ResolveAssemblyReference.cache
+D:\vnu\Prog\label3-F\label3-F\obj\Release\label3_F.Form1.resources
+D:\vnu\Prog\label3-F\label3-F\obj\Release\label3_F.Resources.resources
+D:\vnu\Prog\label3-F\label3-F\obj\Release\label3-F.vbproj.GenerateResource.Cache
+D:\vnu\Prog\label3-F\label3-F\obj\Release\label3-F.exe
+D:\vnu\Prog\label3-F\label3-F\obj\Release\label3-F.xml
+D:\vnu\Prog\label3-F\label3-F\obj\Release\label3-F.pdb

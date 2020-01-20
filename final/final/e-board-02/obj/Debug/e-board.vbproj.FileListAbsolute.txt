@@ -1,0 +1,20 @@
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\bin\Debug\e-board.exe
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\bin\Debug\e-board.pdb
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\bin\Debug\e-board.xml
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\e_board.Form1.resources
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\e_board.Resources.resources
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\e-board.vbproj.GenerateResource.Cache
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\e-board.exe
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\e-board.xml
+C:\Users\wk\AppData\Local\Temporary Projects\e-board\obj\Debug\e-board.pdb
+D:\VB範例書\user\e-board\obj\Debug\e-board.exe
+D:\VB範例書\user\e-board\obj\Debug\e-board.xml
+D:\VB範例書\user\e-board\obj\Debug\e-board.pdb
+D:\VB範例書\user\e-board\bin\Debug\e-board.exe
+D:\VB範例書\user\e-board\bin\Debug\e-board.pdb
+D:\VB範例書\user\e-board\bin\Debug\e-board.xml
+D:\VB範例書\user\e-board\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\user\e-board\obj\Debug\e_board.Form1.resources
+D:\VB範例書\user\e-board\obj\Debug\e_board.Resources.resources
+D:\VB範例書\user\e-board\obj\Debug\e-board.vbproj.GenerateResource.Cache

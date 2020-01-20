@@ -1,0 +1,20 @@
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\bin\Debug\ellipse.exe
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\bin\Debug\ellipse.pdb
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\bin\Debug\ellipse.xml
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ellipse.Form1.resources
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ellipse.Resources.resources
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ellipse.vbproj.GenerateResource.Cache
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ellipse.exe
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ellipse.xml
+C:\Users\wk\AppData\Local\Temporary Projects\ellipse\obj\Debug\ellipse.pdb
+D:\VB範例書\user\ellipse\obj\Debug\ellipse.exe
+D:\VB範例書\user\ellipse\obj\Debug\ellipse.xml
+D:\VB範例書\user\ellipse\obj\Debug\ellipse.pdb
+D:\VB範例書\user\ellipse\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\user\ellipse\obj\Debug\ellipse.Form1.resources
+D:\VB範例書\user\ellipse\obj\Debug\ellipse.Resources.resources
+D:\VB範例書\user\ellipse\obj\Debug\ellipse.vbproj.GenerateResource.Cache
+D:\VB範例書\user\ellipse\bin\Debug\ellipse.exe
+D:\VB範例書\user\ellipse\bin\Debug\ellipse.pdb
+D:\VB範例書\user\ellipse\bin\Debug\ellipse.xml

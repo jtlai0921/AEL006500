@@ -1,0 +1,13 @@
+C:\Users\wk\AppData\Local\Temporary Projects\typing\bin\Debug\typing.exe
+C:\Users\wk\AppData\Local\Temporary Projects\typing\bin\Debug\typing.pdb
+C:\Users\wk\AppData\Local\Temporary Projects\typing\bin\Debug\typing.xml
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\typing.Form1.resources
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\typing.Resources.resources
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\typing.vbproj.GenerateResource.Cache
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\typing.exe
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\typing.xml
+C:\Users\wk\AppData\Local\Temporary Projects\typing\obj\Debug\typing.pdb
+D:\VB範例書\user\typing\obj\Debug\typing.exe
+D:\VB範例書\user\typing\obj\Debug\typing.xml
+D:\VB範例書\user\typing\obj\Debug\typing.pdb

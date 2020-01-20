@@ -1,0 +1,33 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\bin\Debug\Exm-04-A.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\bin\Debug\Exm-04-A.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\bin\Debug\Exm-04-A.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\Exm_04_A.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\Exm_04_A.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\Exm-04-A.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\Exm-04-A.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\Exm-04-A.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\Exm-04-A\obj\Debug\Exm-04-A.pdb
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.exe
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.xml
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.pdb
+D:\vnu\Exm-04-A\Exm-04-A\bin\Debug\Exm-04-A.exe
+D:\vnu\Exm-04-A\Exm-04-A\bin\Debug\Exm-04-A.pdb
+D:\vnu\Exm-04-A\Exm-04-A\bin\Debug\Exm-04-A.xml
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\Exm_04_A.Form1.resources
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\Exm_04_A.Resources.resources
+D:\vnu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.vbproj.GenerateResource.Cache
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.exe
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.xml
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.pdb
+D:\VB範例書\project\Exm-04-A\Exm-04-A\bin\Debug\Exm-04-A.exe
+D:\VB範例書\project\Exm-04-A\Exm-04-A\bin\Debug\Exm-04-A.pdb
+D:\VB範例書\project\Exm-04-A\Exm-04-A\bin\Debug\Exm-04-A.xml
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\ResolveAssemblyReference.cache
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\Exm_04_A.Form1.resources
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\Exm_04_A.Resources.resources
+D:\VB範例書\project\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.vbproj.GenerateResource.Cache
+D:\VB範例書\jack-wu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.exe
+D:\VB範例書\jack-wu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.xml
+D:\VB範例書\jack-wu\Exm-04-A\Exm-04-A\obj\Debug\Exm-04-A.pdb

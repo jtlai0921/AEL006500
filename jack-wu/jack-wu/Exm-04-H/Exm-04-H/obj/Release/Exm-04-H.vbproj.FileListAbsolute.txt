@@ -1,0 +1,17 @@
+D:\vnu\Exm-04-H\Exm-04-H\bin\Release\Exm-04-H.exe
+D:\vnu\Exm-04-H\Exm-04-H\bin\Release\Exm-04-H.pdb
+D:\vnu\Exm-04-H\Exm-04-H\bin\Release\Exm-04-H.xml
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\ResolveAssemblyReference.cache
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm_04_H.Form1.resources
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm_04_H.Resources.resources
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.vbproj.GenerateResource.Cache
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.exe
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.xml
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.pdb
+D:\vnu\Exm-04-H\Exm-04-H\bin\Release\Exm-04-H.exe.manifest
+D:\vnu\Exm-04-H\Exm-04-H\bin\Release\Exm-04-H.application
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.exe.manifest
+D:\vnu\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.application
+D:\VB範例書\project\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.exe
+D:\VB範例書\project\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.xml
+D:\VB範例書\project\Exm-04-H\Exm-04-H\obj\Release\Exm-04-H.pdb

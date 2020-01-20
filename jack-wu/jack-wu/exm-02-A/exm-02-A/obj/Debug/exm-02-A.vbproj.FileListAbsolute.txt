@@ -1,0 +1,13 @@
+D:\vnu\exm-02-A\exm-02-A\bin\Debug\exm-02-A.exe
+D:\vnu\exm-02-A\exm-02-A\bin\Debug\exm-02-A.pdb
+D:\vnu\exm-02-A\exm-02-A\bin\Debug\exm-02-A.xml
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\ResolveAssemblyReference.cache
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\exm_02_A.Form1.resources
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\exm_02_A.Resources.resources
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\exm-02-A.vbproj.GenerateResource.Cache
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\exm-02-A.exe
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\exm-02-A.xml
+D:\vnu\exm-02-A\exm-02-A\obj\Debug\exm-02-A.pdb
+D:\VB範例書\project\exm-02-A\exm-02-A\obj\Debug\exm-02-A.exe
+D:\VB範例書\project\exm-02-A\exm-02-A\obj\Debug\exm-02-A.xml
+D:\VB範例書\project\exm-02-A\exm-02-A\obj\Debug\exm-02-A.pdb
